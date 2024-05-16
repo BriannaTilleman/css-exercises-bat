@@ -1,4 +1,4 @@
-.odd {
+div {
     color: rgb(233, 144, 144);
     font-family: Verdana,"DejaVu Sans" sans-serif,;
   }
@@ -10,6 +10,10 @@
 #two {
     color: rgb(21, 21, 146);
     font-size: 36px;
+}
+
+#three {
+    font-size: 24px;
 }
 
 #four {
